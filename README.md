@@ -8,3 +8,6 @@ This repository contains:
 ## Heart Disease Prediction
 
 - EDA,preprocessing
+
+## Titanic survival prediction
+-EDA,LogisticRegression
