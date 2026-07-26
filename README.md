@@ -10,4 +10,7 @@ This repository contains:
 - EDA,preprocessing
 
 ## Titanic survival prediction
--EDA,LogisticRegression
+-EDA,LogisticRegression,different models
+
+## GridSearch
+-Crss validation
